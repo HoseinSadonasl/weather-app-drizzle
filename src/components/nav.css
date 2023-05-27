@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  padding-inline: 16px;
+  background: linear-gradient(#003d66, #00253d);
+  align-items: center;
+}
+
+.nav h1 {
+  margin-inline: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  font-weight: 200;
+}
