@@ -1,4 +1,4 @@
-import logo from "../assets/drizzleico.svg";
+import logo from "../../assets/drizzleico.svg";
 import "./nav.css";
 const Nav = ({ SearchBar }) => {
   return (
